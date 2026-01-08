@@ -35,11 +35,13 @@ I approach these problems by combining **physical modeling** (imaging mechanisms
 
 ## 🎓 Education
 
-**M.S. in Photoelectric Information Engineering** | *2024 – Present* **University of Chinese Academy of Sciences (UCAS)**, Beijing, China  
+**M.S. in Photoelectric Information Engineering** | *2024 – Present*
+**University of Chinese Academy of Sciences (UCAS)**, Beijing, China
 * *Affiliation:* Shanghai Institute of Optics and Fine Mechanics (SIOM), CAS.
 * *Advisor:* Prof. Guohai Situ.
 
-**B.S. in Process Equipment and Control Engineering** | *2019 – 2023* **Changzhou University (CZU)**, Changzhou, China
+**B.S. in Process Equipment and Control Engineering** | *2019 – 2023*
+**Changzhou University (CZU)**, Changzhou, China
 
 ---
 
