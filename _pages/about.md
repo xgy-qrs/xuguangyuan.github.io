@@ -13,7 +13,7 @@ author_profile: true
 
 ## 📖 Biography
 
-I am currently a Master's student (2024–Present) majoring in **Photoelectric Information Engineering** at the University of Chinese Academy of Sciences (UCAS). I am a member of the **Computational Optical Imaging Group** at the **Shanghai Institute of Optics and Fine Mechanics (SIOM)**, under the supervision of **Prof. Guohai Situ**.
+I am currently a Master's student (2024–Present) majoring in **Photoelectric Information Engineering** at the **University of Chinese Academy of Sciences (UCAS)** and the **Hangzhou Institute for Advanced Study (HIAS)**. I conduct my research at the **Shanghai Institute of Optics and Fine Mechanics (SIOM)** in the **Computational Optical Imaging Group**, under the supervision of **Prof. Guohai Situ**.
 
 My research interests lie at the intersection of optics and computer science, specifically in **Computational Imaging**. I aim to solve inverse problems in imaging systems to achieve visibility in extreme environments. My current work focuses on:
 
