@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Photoelectric Information Engineering**, University of Chinese Academy of Sciences (UCAS), Beijing, China, 2027 (Expected)
+  * *Research Unit:* Shanghai Institute of Optics and Fine Mechanics (SIOM)
+  * *Advisor:* Prof. Guohai Situ
+* **B.S. in Process Equipment and Control Engineering**, Changzhou University (CZU), Changzhou, China, 2023
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant**
+  * *Computational Optical Imaging Group, SIOM, CAS*
+  * *2024 – Present*
+  * **Single-Pixel Imaging (SPI) System:** Developing a high-speed SPI system using a rotating disk. Conducted physical modeling and simulation of optical defocus and motion blur. Implemented hardware control for precise motor modulation.
+  * **Scattering Imaging:** Researching image reconstruction through scattering media (e.g., smoke/fog). Successfully deployed UNet-based restoration models on edge devices (NVIDIA Jetson Orin Nano) using ONNX and TensorRT optimization for real-time inference.
+  * **Simulation & Algorithms:** Utilized Python (PyTorch, NumPy) for end-to-end simulation of optical wave propagation (Fourier optics) and deep learning-based inverse problem solving.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming & Tools:** Python (Advanced), MATLAB, C++, LaTeX, Git
+* **Deep Learning:** PyTorch, OpenCV, TensorRT, ONNX, BasicSR
+* **Optical Engineering:** Physical Optics Modeling, Fourier Optics, Light Field Simulation, Hardware Control (Servo/Motor)
+* **Languages:** Chinese (Native), English (Professional Working Proficiency)
 
 Publications
 ======
@@ -59,6 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Academic Activities
 ======
-* Currently signed in to 43 different slack teams
+* Member of the Computational Optical Imaging Group at SIOM.
+* Active contributor to open-source optical simulation projects (if applicable).
