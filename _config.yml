@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Xu Guangyuan - Optical Imaging and Computational Imaging"
 title_separator          : "-"
 name                     : &name "Xu Guangyuan"
-description              : &description "masters student focusing on computational imaging "   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "M.S. student focusing on computational imaging and optical sensing"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://xgy-qrs.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Xu Guangyuan"
   pronouns         : # example: "she/her"  
-  bio              : "masters student in computational imaging and optical sensing"
+  bio              : "M.S. student in computational imaging and optical sensing"
   location         : "Shanghai, China"
-  employer         : "SIOM, HIAS, UCAS"
+  employer         : "UCAS / SIOM / HIAS"
   uri              : # URL
   email            : "guangyuanxu005@gmail.com" 
 
